@@ -1,4 +1,4 @@
-# package_description
+# Package Name
 
 [![Latest Version on NPM](https://img.shields.io/npm/v/package_name.svg?style=flat-square)](https://npmjs.com/package/package_name)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)

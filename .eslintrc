@@ -1,5 +1,5 @@
 {
-    "extends": "spatie/vue",
+    "extends": "appstract/vue",
     "parserOptions": {
         "ecmaVersion": 8
     },
